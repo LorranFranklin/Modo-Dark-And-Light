@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Slider Misturama" src="./README.png" width="100%">
+  <img alt="Projeto Dark mode light" src="./README.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
